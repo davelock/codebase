@@ -12,8 +12,6 @@ Or the sql script is in the github folder.
 
 Please ensure the api is running at this path and port: https://localhost:7101 as the client code send requests to that url. The swagger page is at https://localhost:7101/swagger/index.html
 
-I deleted the bin and obj folders in case it causes problems with virus scans.
-
 Full disclosure, I ran out of time a little on this task, the cookie problem ate a lot of my time 
 but it was an enjoyable task and I hope it runs ok for you. Any problems/questions please
 email me at david.keylock@gmail.com.
